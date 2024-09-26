@@ -1,3 +1,3 @@
-# quotes_app1
+# quotes_app
 
 A new Flutter project.
