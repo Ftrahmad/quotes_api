@@ -1,3 +1,3 @@
-# quotes_app
+# API Ninjas
 
 A new Flutter project.
